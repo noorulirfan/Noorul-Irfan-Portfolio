@@ -1,0 +1,143 @@
+p{
+  color: blue;
+}
+
+
+p{
+   
+        font-family: "Poppins", serif;
+        font-weight: 600;
+        font-weight: normal;
+      
+        background-color: rgba(214, 226, 43, 0.084);
+        margin: 20px;
+       border: 15px solid rgba(0, 109, 128, 0.28);
+       width: 500px;
+         height: 250px;
+        padding: 15px;
+       
+}
+
+.banner{
+    background-image: url(/portfolio/images/banner.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+    
+}
+h1{
+    color: rgba(178, 34, 68, 0.74);
+    text-shadow: 2px 2px 5px rgb(145, 237, 8);
+}
+h4{
+    color: rgb(0, 255, 204);
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(200, 255, 0), 0 0 5px rgb(0, 139, 28);
+  }
+h4.p1{
+  color: rgb(226, 43, 128);
+}
+p.p1{
+  text-align:left;
+  text-indent: 50px;
+  font-size: 20px;
+  
+  color: rgba(255, 0, 132, 0.753);
+  background-size: 100px;
+  width: 600px;
+  height: 350px;
+  padding: 25px;
+  background-color: rgba(226, 43, 43, 0.189);
+  margin: 20px;
+ border: 15px solid green;
+}
+.image-fluid{
+  border: 5px solid #555;
+  width: 150px;
+  float: right;
+  right: 100px;
+}
+
+.image-fluid{
+  border-image: fill;
+  border: 5px solid #555;
+  width: 150px;
+}
+.s1{
+  color: rgba(150, 226, 43, 0.819);
+}
+.im1{
+  border: 5px solid #555;
+  width: 150px;
+ padding: 15px;
+  right: 100px;
+}
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+p.title{
+  color: grey;
+  font-size: 18px;
+}
+
+button{
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a.i1{
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover{
+  opacity: 0.7;
+}
+p.b1{
+  color: rgb(255, 0, 0);
+}
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 2px solid #ccc; /* Gray border */
+  border-radius: 5px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.p3{
+  text-align: right;
+}
+
+
+
+  
