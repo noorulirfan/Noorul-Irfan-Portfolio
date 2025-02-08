@@ -19,11 +19,11 @@ p{
 }
 
 .banner{
-    background-image: url(/./images/banner.jpeg);
+    background-image: url(./images/banner.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 250px 0;
-    
+  
 }
 h1{
     color: rgba(178, 34, 68, 0.74);
