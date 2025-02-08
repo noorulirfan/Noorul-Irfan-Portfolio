@@ -19,7 +19,7 @@ p{
 }
 
 .banner{
-    background-image: url(/portfolio/images/banner.jpeg);
+    background-image: url(/../images/banner.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 250px 0;
